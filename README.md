@@ -1,1 +1,0 @@
-# ultrasonic_vacuum_cleaner
